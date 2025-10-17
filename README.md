@@ -51,10 +51,7 @@
 
 --- ### :fire: My Stats :
 
---- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adjaro&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
---- ![Edina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adjaro&theme=tokyonight&show_icons=true)
 
 ---
 
@@ -74,9 +71,6 @@
 
 ---
 
---- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adjaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- 
----
 
 **Feel free to reach out to me for collaborations or discussions!** 😄
