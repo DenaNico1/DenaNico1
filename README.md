@@ -2,7 +2,7 @@
 
 - **Mail**: franckdena@gmail.com
 - **LinkedIn**: [nico-frank-wilfried-DENA](https://www.linkedin.com/in/nico-frank-wilfried-dena-414561216/)
-- **website**: https://adjaro.github.io/resume/
+
 
 ##### I am currently in my final year of a Master's degree in Data Science, specializing in data Engineering, machine learning, deep learning (with a focus on computer vision), and MLOps. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
 
