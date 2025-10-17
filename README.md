@@ -7,10 +7,11 @@
 ##### I am currently in my final year of a Master's degree in Data Science, specializing in data Engineering, machine learning, deep learning (with a focus on computer vision), and MLOps. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
 
 - **Data Analysis** with tools like `Tableau`, `PowerBI`, and `Qlik`.
-- **Data Engineering** with `SQL`, `NoSQL`, and `MongoDB`.
+- **Data Engineering** with `SQL`, `NoSQL`,`Apache-Hop`, `Apache-Doris`,`Airflow`, `Kafka`, and `MongoDB`.
 - **MLOps** with `Docker`, `Azure`, and `AWS`.
 - **Machine Learning** with `Python`, `R`, and `TensorFlow`.
 - **Natural Language Processing (NLP)** and **Computer Vision** with libraries like `Transformers`, `OpenCV`, and `YOLO`.
+- - **LLM** with `RAG`.
 
 ###### Feel free to check out some of my projects in my repositories!
 
@@ -32,9 +33,9 @@
 </div>
 <br/>
 
-##### In addition to these skills, I have experience in **web and mobile development**:
-- **Front-end**: `ReactJS`, `Streamlit`, `Dash`.
-- **Back-end**: `NodeJS`, `FastAPI`, `Flask`.
+##### In addition to these skills, I have experience in **web developpement**:
+- **Front-end**: `Streamlit`, `Dash`.
+- **Back-end**: `FastAPI`, `Apache-Doris` .
 
 ###### You can explore some of my projects on my website or GitHub.
 
@@ -48,12 +49,12 @@
 
 ---
 
-### :fire: My Stats :
+--- ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adjaro&theme=dark&background=000000)](https://git.io/streak-stats)
+--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adjaro&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-![Edina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adjaro&theme=tokyonight&show_icons=true)
+--- ![Edina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adjaro&theme=tokyonight&show_icons=true)
 
 ---
 
@@ -73,7 +74,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adjaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adjaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ---
