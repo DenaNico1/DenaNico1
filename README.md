@@ -23,8 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://doris.apache.org/images/doris_logo.svg" title="Apache Doris" alt="Apache Doris" width="40" height="40"/>&nbsp;
-  <img src="https://hop.apache.org/assets/images/logo.svg" title="Apache Hop" alt="Apache Hop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenaNico1/DenaNico1/blob/main/icon/doris_logo.svg" title="Apache Doris" alt="Apache Doris" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DenaNico1/DenaNico1/blob/main/icon/logo.svg" title="Apache Hop" alt="Apache Hop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenaNico1/DenaNico1/blob/main/icon/databricks.svg" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenaNico1/DenaNico1/blob/main/icon/Dataiku.svg" title="Dataiku" alt="Dataiku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DenaNico1/DenaNico1/blob/main/icon/qlik.svg" title="Qlik" alt="Qlik" width="40" height="40"/>&nbsp;
