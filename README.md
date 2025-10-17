@@ -11,7 +11,7 @@
 - **MLOps** with `Docker`, `Azure`, and `AWS`.
 - **Machine Learning** with `Python`, `R`, and `TensorFlow`.
 - **Natural Language Processing (NLP)** and **Computer Vision** with libraries like `Transformers`, `OpenCV`, and `YOLO`.
-- - **LLM** with `RAG`.
+- **LLM** with `RAG`.
 
 ###### Feel free to check out some of my projects in my repositories!
 
