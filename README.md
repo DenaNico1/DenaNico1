@@ -105,7 +105,7 @@ I'm a **Master's student specializing in Data Science**, passionate about transf
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenaNico1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -124,7 +124,7 @@ I'm a **Master's student specializing in Data Science**, passionate about transf
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm actively looking for **internship opportunities** in:
 -  **Data Engineering** / ETL Development
@@ -134,7 +134,7 @@ I'm actively looking for **internship opportunities** in:
 
 **Open to:** Full-time internships (6 months) starting April 2026 | Remote or on-site in France
 
-💼 **Let's collaborate!** Feel free to reach out for projects, discussions, or opportunities.
+ **Let's collaborate!** Feel free to reach out for projects, discussions, or opportunities.
 
 <div align="center">
   
