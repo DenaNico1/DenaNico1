@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nico Frank Wilfried DENA
+# Hi, I'm Nico Frank Wilfried DENA
 
 <div align="center">
   
-### 🎓 Master's Student in Data Science | 📊 Data Analyst & Engineer | 🤖 ML Enthusiast
+###  Master's Student in Data Science |  Data Analyst & Engineer |  ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nico-frank-wilfried-dena-414561216/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:franckdena@gmail.com)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Master's student specializing in Data Science**, passionate about transforming data into actionable insights. Currently seeking a **6-month internship starting April 2026** in Data Engineering, Data Analysis, or Machine Learning.
 
@@ -32,14 +32,14 @@ I'm a **Master's student specializing in Data Science**, passionate about transf
 
 | Role | Company | Period | Key Achievement |
 |------|---------|--------|-----------------|
-| 🔧 **Data Engineer Intern** | Capgemini - Michelin | Mar-Sep 2025 | Built financial KPI dashboards with Power BI |
-| 📊 **Data Analyst** | Centre Jean Perrin | Oct 2024-Sep 2025 | Analyzed cancer treatment data |
-| 🤖 **Data Scientist** | Danish Refugee Council | May-Aug 2024 | NLP sentiment analysis on 50K+ tweets |
-| 🔄 **Data Engineer** | Save the Children Intl | Jan-Apr 2024 | Automated ETL pipelines & created 67 KPIs |
+|  **Data Engineer Intern** | Capgemini - Michelin | Mar-Sep 2025 | Built financial KPI dashboards with Power BI |
+|  **Data Analyst** | Centre Jean Perrin | Oct 2024-Sep 2025 | Analyzed cancer treatment data |
+|  **Data Scientist** | Danish Refugee Council | May-Aug 2024 | NLP sentiment analysis on 50K+ tweets |
+|  **Data Engineer** | Save the Children Intl | Jan-Apr 2024 | Automated ETL pipelines & created 67 KPIs |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Data Analysis & Visualization
 <div>
@@ -127,9 +127,10 @@ I'm a **Master's student specializing in Data Science**, passionate about transf
 ## 📫 Let's Connect!
 
 I'm actively looking for **internship opportunities** in:
-- 📊 **Data Analysis** / Business Intelligence
-- 🔧 **Data Engineering** / ETL Development
-- 🤖 **Machine Learning** / Data Science
+-  **Data Engineering** / ETL Development
+-  **Machine Learning** / Data Science
+-  **Data Analysis** / Business Intelligence
+
 
 **Open to:** Full-time internships (6 months) starting April 2026 | Remote or on-site in France
 
